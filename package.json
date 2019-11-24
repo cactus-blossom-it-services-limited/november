@@ -1,0 +1,8 @@
+{
+  "name": "pantheon-cactusblossom-test",
+  "version": "0.1.0",
+  "dependencies": {
+    "@frctl/fractal": "^1.2.0",
+    "bootstrap-sass": "^3.4.1"
+  }
+}
