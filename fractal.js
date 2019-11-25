@@ -21,6 +21,11 @@ fractal.set('project.title', 'Pantheon Cactusblossom Test');
 fractal.components.set('path', path.join(__dirname, 'components'));
 
 /*
+ * Tell Fractal where to look for preview.
+ */
+fractal.components.set('default.preview', '@preview');
+
+/*
  * Tell Fractal where to look for documentation pages.
  */
 fractal.docs.set('path', path.join(__dirname, 'docs'));
